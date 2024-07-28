@@ -74,15 +74,13 @@ experiences:
         time: 2020 - 2023
         company: ETHZ
         details: |
-            - Azure and Azure DevOps community expert (October 2022 – present)
-            - Business requirements analysis, technical design of Azure and SharePoint 
-            solutions, development and configuration, system integration
+            - Business requirements analysis, solution design, development and configuration, system integration
+            - Workloads connecting legacy applications with Azure and SharePoint, spanning across custom SPFx solutions, Azure Functions, Power Automate, Power Apps, Excel and Excel Script integration with Power Automate, data insights using Excel and Power Query
             - CI/CD automation for deployment (e.g. Infrastructure as Code, cloud-native 
-            Azure solutions, SharePoint solutions) 
+            Azure solutions, SharePoint solutions) and MS Teams integration with Azure DevOps
             - Deployment and continuous integration: Azure DevOps, CI/CD, Policies and 
             Bicep templates
-            - Hands-on technology experience including .NET development, TypeScript, 
-            JavaScript
+            - Development in .NET, TypeScript, React, SPFx, JavaScript, PowerShell
 
       - role: Solution Architect, SharePoint Service Owner
         time: 2013 - 2020
