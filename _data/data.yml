@@ -27,10 +27,7 @@ sidebar:
             - idiom: German
               level: Intermediate
 
-            - idiom: Spanish
-              level: Beginner
-
-            - idiom: Italian
+            - idiom: Spanish, Italian
               level: Beginner
 
     interests:
@@ -45,11 +42,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Certified Azure Solutions Architect and DevOps Expert, experienced solution
-        architect specializing in cross-workload solutions.
-        Over 15 years of practical experience in architecture, 
-        design, and development, skilled in deployment of solutions and infrastructure 
-        following practices of continuous integration and continuous deployment.
+        Certified Azure Solutions Architect with over 15 years of experience in consulting, requirements engineering, 
+        solution design and development of workloads spanning multiple technologies.
 
 education:
     title: Education
@@ -61,11 +55,14 @@ education:
 experiences:
     title: Experiences
     info:
-        - role: Azure, M365 and Power Platform Solution Architect
+        - role: Azure, Microsoft 365 and Power Platform Solution Architect
           time: 2023 - Present
-          company: ETHZ
+          company: ETH Zürich
           details: |
-              - Power Platform adoption, including ...
+              - As the primary advocate for Power Platform adoption within ETHZ, successfully led initiatives to integrate Power Apps, Power Automate, 
+                and Power BI into existing workflows.
+              - Proactively engage with stakeholders, including executives, business users, and IT teams, to ensure alignment and secure buy-in for Power Platform projects.
+
               - Power Platform projects providing guidance on licensing and PP solution design, ECS assessment for CISO team
               - OCRE 
               - SPFx security insights evaluating potential risks of SPFx solutions, impact on the security ostuee and recommended mitigation steps (Application Insights, Compliance policies)
@@ -74,42 +71,40 @@ experiences:
           time: 2020 - 2023
           company: ETHZ
           details: |
-              - Business requirements analysis, solution design, development and configuration, system integration
-              - Workloads connecting legacy applications with Azure and SharePoint, spanning across custom SPFx solutions, Azure Functions, Power Automate, Power Apps, Excel and Excel Script integration with Power Automate, data insights using Excel and Power Query
-              - CI/CD automation for deployment (e.g. Infrastructure as Code using adapted rush.iochange management process, cloud-native 
-              Azure solutions, SharePoint solutions), MS Teams integration with Azure DevOps
-              - Deployment and continuous integration: Azure DevOps, CI/CD, Policies,  
-              Bicep templates
-              - Development in .NET, TypeScript, React, SPFx, JavaScript, PowerShell
-              - Sample contributions to the PnP community, multiple blogs posts covering development and security topics
+              - Business requirements analysis and project requirements capture, solution design following Azure Well-Architected Framework principles
+              - Workloads connecting legacy applications with Azure, SharePoint Online and Exchange Online, spanning across different technologies such as 
+                Azure (APIM, Azure Functions and Logic Apps, Service Bus, Application Insights), Power Platform (Canvas Apps, Power Automate with 
+                Excel Script integration, data insights using Excel and Power Query), custom SPFx solution to support business processes, custom WebPart 
+                providing usage and cost insights based on data from Application Insights and Cost Management (WebPart published as a sample)
+              - Project plan priorotization in the context of planned migration to the Microsoft cloud
+              - Security design ensuring Zero Trust approach
+              - Deployment using CI/CD automation, e.g. Infrastructure as Code using Bicep templates and  adapted rushstack.io change management process, MS Teams integration with Azure DevOps
+              - Solution development using .NET, TypeScript and React (SPFx solutions)
+              - Contributions to the PnP community, multiple blogs posts covering development and security topics
 
         - role: Solution Architect, SharePoint Service Owner
           time: 2013 - 2020
           company: ETH Zürich
           details: |
-              - Business requirements analysis, technical design of SharePoint on-premise
-                  solutions, development and configuration, system integration
+              - Business requirements analysis, technical design of SharePoint on-premise solutions, development and configuration, system integration
               - SharePoint Service Owner
 
-        - role: Technical Consultant
+        - role: SharePoint Technical Consultant
           time: 2007 - 2013
           company: Microsoft Switzerland
           details: |
               - Planning SharePoint solutions: functional specification, design, scalability
-              - Gathering business requirements, solution design, architecture design and 
-                  governance  
-              - Microsoft SharePoint Server administration, configuration, customization, 
-                  development (C# .NET, JavaScript, REST), testing, deployment
+              - Gathering business requirements, solution design, architecture design and governance  
+              - Microsoft SharePoint Server administration, configuration, customization, development (C# .NET, JavaScript, REST), testing, deployment
               - Project and operational management
               - IT training and coaching
 
-        - role: Technical Consultant
+        - role: SharePoint Technical Consultant
           time: 2003 - 2007
           company: Microsoft Poland
           details: |
               - Planning SharePoint solutions: functional specification, design, scalability
-              - Gathering business requirements, SharePoint-based solution design, 
-                  architecture, development, testing, deployment
+              - Gathering business requirements, SharePoint-based solution design, architecture, development, testing, deployment
               - IT training and coaching
 
 certifications:
