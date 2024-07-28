@@ -141,7 +141,7 @@ projects:
     assignments:
         - title: Cost Calculator for Licensing Optimization
           link: "#hook"
-          tagline: "tool assists decision-makers in selecting the most cost-efficient licensing approach based on number of Premium solutions and planned usage patterns. Application published in "Microsfot Adotpion | Sample Solution Gallery""
+          tagline: "tool assists decision-makers in selecting the most cost-efficient licensing approach based on number of Premium solutions and planned usage patterns. Application published in Microsoft Adotpion | Sample Solution Gallery"
 
         - title: Power Platform Assessment tool
           link: "#"
