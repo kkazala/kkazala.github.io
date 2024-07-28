@@ -76,13 +76,13 @@ experiences:
         details: |
             - Azure and Azure DevOps community expert (October 2022 – present)
             - Business requirements analysis, technical design of Azure and SharePoint 
-solutions, development and configuration, system integration
-- CI/CD automation for deployment (e.g. Infrastructure as Code, cloud-native 
-Azure solutions, SharePoint solutions) 
-- Deployment and continuous integration: Azure DevOps, CI/CD, Policies and 
-Bicep templates
-- Hands-on technology experience including .NET development, TypeScript, 
-JavaScript
+            solutions, development and configuration, system integration
+            - CI/CD automation for deployment (e.g. Infrastructure as Code, cloud-native 
+            Azure solutions, SharePoint solutions) 
+            - Deployment and continuous integration: Azure DevOps, CI/CD, Policies and 
+            Bicep templates
+            - Hands-on technology experience including .NET development, TypeScript, 
+            JavaScript
 
       - role: UI Developer
         time: 2012 - 2014
