@@ -31,13 +31,19 @@ sidebar:
         - idiom: German
           level: Intermediate
 
+        - idiom: Spanish
+          level: Beginner
+
+        - idiom: Italian
+          level: Beginner
+
     interests:
       title: Interests
       info:
-        - item: Hiking and skiing
+        - item: Hiking and skiing while in Switzerland
           link:
 
-        - item: Diving and windsurfing
+        - item: Diving and windsurfing while abroad
           link:
 
 career-profile:
@@ -52,29 +58,10 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+      - degree: Bachelor of Applied Science (B.A.Sc.)
+        university: Warsaw University of Technology
+        time: 1999 - 2005
+        
 experiences:
     title: Experiences
     info:
