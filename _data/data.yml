@@ -49,11 +49,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Certified Azure Solutions Architect and DevOps Expert, experienced solution
-architect specializing in cross-workload solutions.
-Over 15 years of practical experience in architecture, 
-design, and development, skilled in deployment of solutions and infrastructure 
-following practices of continuous integration and continuous deployment.
+        Certified Azure Solutions Architect and DevOps Expert, experienced solution
+        architect specializing in cross-workload solutions.
+        Over 15 years of practical experience in architecture, 
+        design, and development, skilled in deployment of solutions and infrastructure 
+        following practices of continuous integration and continuous deployment.
 
 education:
     title: Education
@@ -65,32 +65,25 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Azure, M365 and Power Platform Solution Architect
+        time: 2023 - Present
+        company: ETHZ
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          
+      - role: Azure and SharePoint Solution Architect, SharePoint Solution Owner 
+        time: 2020 - 2023
+        company: ETHZ
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Azure and Azure DevOps community expert (October 2022 – present)
+            - Business requirements analysis, technical design of Azure and SharePoint 
+solutions, development and configuration, system integration
+- CI/CD automation for deployment (e.g. Infrastructure as Code, cloud-native 
+Azure solutions, SharePoint solutions) 
+- Deployment and continuous integration: Azure DevOps, CI/CD, Policies and 
+Bicep templates
+- Hands-on technology experience including .NET development, TypeScript, 
+JavaScript
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
