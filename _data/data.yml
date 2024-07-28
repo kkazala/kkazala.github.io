@@ -49,12 +49,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Certified Azure Solutions Architect and DevOps Expert, experienced solution
+architect specializing in cross-workload solutions.
+Over 15 years of practical experience in architecture, 
+design, and development, skilled in deployment of solutions and infrastructure 
+following practices of continuous integration and continuous deployment.
+
 education:
     title: Education
     info:
