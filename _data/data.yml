@@ -69,6 +69,10 @@ experiences:
         time: 2023 - Present
         company: ETHZ
         details: |
+            - Power Platform adoption, including ...
+            - Power Platform projects providing guidance on licensing and PP solution design, ECS assessment for CISO team
+            - OCRE 
+            - SPFx security insights evaluating potential risks of SPFx solutions, impact on the security ostuee and recommended mitigation steps (Application Insights, Compliance policies)
           
       - role: Azure and SharePoint Solution Architect, SharePoint Solution Owner 
         time: 2020 - 2023
@@ -76,11 +80,12 @@ experiences:
         details: |
             - Business requirements analysis, solution design, development and configuration, system integration
             - Workloads connecting legacy applications with Azure and SharePoint, spanning across custom SPFx solutions, Azure Functions, Power Automate, Power Apps, Excel and Excel Script integration with Power Automate, data insights using Excel and Power Query
-            - CI/CD automation for deployment (e.g. Infrastructure as Code, cloud-native 
-            Azure solutions, SharePoint solutions) and MS Teams integration with Azure DevOps
-            - Deployment and continuous integration: Azure DevOps, CI/CD, Policies and 
+            - CI/CD automation for deployment (e.g. Infrastructure as Code using adapted rush.iochange management process, cloud-native 
+            Azure solutions, SharePoint solutions), MS Teams integration with Azure DevOps
+            - Deployment and continuous integration: Azure DevOps, CI/CD, Policies,  
             Bicep templates
             - Development in .NET, TypeScript, React, SPFx, JavaScript, PowerShell
+            - Sample contributions to the PnP community, multiple blogs posts covering development and security topics 
 
       - role: Solution Architect, SharePoint Service Owner
         time: 2013 - 2020
