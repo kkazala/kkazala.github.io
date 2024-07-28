@@ -139,7 +139,7 @@ projects:
         section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-        - title: Cost Calculator for Licensing Optimization: 
+        - title: Cost Calculator for Licensing Optimization
           link: "#hook"
           tagline: "tool assists decision-makers in selecting the most cost-efficient licensing approach based on number of Premium solutions and planned usage patterns. Application published in "Microsfot Adotpion | Sample Solution Gallery""
 
