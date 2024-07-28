@@ -1,50 +1,46 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Kinga Kazala
     tagline: Azure, M365, Power Platform solution architect
-    avatar: _profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: _profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     website: dev.to/kkazala #do not add http://
     linkedin: kkazala
     github: kkazala
-    twitter: '@kkazala'
+    twitter: "@kkazala"
     samples: https://adoption.microsoft.com/en-us/sample-solution-gallery/kkazala/
 
     languages:
-      title: Languages
-      info:
-        - idiom: Polish
-          level: Native
+        title: Languages
+        info:
+            - idiom: Polish
+              level: Native
 
-        - idiom: English
-          level: Professional
+            - idiom: English
+              level: Professional
 
-        - idiom: German
-          level: Intermediate
+            - idiom: German
+              level: Intermediate
 
-        - idiom: Spanish
-          level: Beginner
+            - idiom: Spanish
+              level: Beginner
 
-        - idiom: Italian
-          level: Beginner
+            - idiom: Italian
+              level: Beginner
 
     interests:
-      title: Interests
-      info:
-        - item: Hiking and skiing while in Switzerland
-          link:
+        title: Interests
+        info:
+            - item: Hiking and skiing while in Switzerland
+              link:
 
-        - item: Diving and windsurfing while abroad
-          link:
+            - item: Diving and windsurfing while abroad
+              link:
 
 career-profile:
     title: Career Profile
@@ -58,81 +54,79 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Bachelor of Applied Science (B.A.Sc.)
-        university: Warsaw University of Technology
-        time: 1999 - 2005
-        
+        - degree: Bachelor of Applied Science (B.A.Sc.)
+          university: Warsaw University of Technology
+          time: 1999 - 2005
+
 experiences:
     title: Experiences
     info:
-      - role: Azure, M365 and Power Platform Solution Architect
-        time: 2023 - Present
-        company: ETHZ
-        details: |
-            - Power Platform adoption, including ...
-            - Power Platform projects providing guidance on licensing and PP solution design, ECS assessment for CISO team
-            - OCRE 
-            - SPFx security insights evaluating potential risks of SPFx solutions, impact on the security ostuee and recommended mitigation steps (Application Insights, Compliance policies)
-          
-      - role: Azure and SharePoint Solution Architect, SharePoint Solution Owner 
-        time: 2020 - 2023
-        company: ETHZ
-        details: |
-            - Business requirements analysis, solution design, development and configuration, system integration
-            - Workloads connecting legacy applications with Azure and SharePoint, spanning across custom SPFx solutions, Azure Functions, Power Automate, Power Apps, Excel and Excel Script integration with Power Automate, data insights using Excel and Power Query
-            - CI/CD automation for deployment (e.g. Infrastructure as Code using adapted rush.iochange management process, cloud-native 
-            Azure solutions, SharePoint solutions), MS Teams integration with Azure DevOps
-            - Deployment and continuous integration: Azure DevOps, CI/CD, Policies,  
-            Bicep templates
-            - Development in .NET, TypeScript, React, SPFx, JavaScript, PowerShell
-            - Sample contributions to the PnP community, multiple blogs posts covering development and security topics 
+        - role: Azure, M365 and Power Platform Solution Architect
+          time: 2023 - Present
+          company: ETHZ
+          details: |
+              - Power Platform adoption, including ...
+              - Power Platform projects providing guidance on licensing and PP solution design, ECS assessment for CISO team
+              - OCRE 
+              - SPFx security insights evaluating potential risks of SPFx solutions, impact on the security ostuee and recommended mitigation steps (Application Insights, Compliance policies)
 
-      - role: Solution Architect, SharePoint Service Owner
-        time: 2013 - 2020
-        company: ETH Zürich
-        details: |
-            - Business requirements analysis, technical design of SharePoint on-premise
-                solutions, development and configuration, system integration
-            - SharePoint Service Owner
+        - role: Azure and SharePoint Solution Architect, SharePoint Solution Owner
+          time: 2020 - 2023
+          company: ETHZ
+          details: |
+              - Business requirements analysis, solution design, development and configuration, system integration
+              - Workloads connecting legacy applications with Azure and SharePoint, spanning across custom SPFx solutions, Azure Functions, Power Automate, Power Apps, Excel and Excel Script integration with Power Automate, data insights using Excel and Power Query
+              - CI/CD automation for deployment (e.g. Infrastructure as Code using adapted rush.iochange management process, cloud-native 
+              Azure solutions, SharePoint solutions), MS Teams integration with Azure DevOps
+              - Deployment and continuous integration: Azure DevOps, CI/CD, Policies,  
+              Bicep templates
+              - Development in .NET, TypeScript, React, SPFx, JavaScript, PowerShell
+              - Sample contributions to the PnP community, multiple blogs posts covering development and security topics
 
+        - role: Solution Architect, SharePoint Service Owner
+          time: 2013 - 2020
+          company: ETH Zürich
+          details: |
+              - Business requirements analysis, technical design of SharePoint on-premise
+                  solutions, development and configuration, system integration
+              - SharePoint Service Owner
 
-      - role: Technical Consultant
-        time: 2007 - 2013
-        company: Microsoft Switzerland
-        details: |
-            - Planning SharePoint solutions: functional specification, design, scalability
-            - Gathering business requirements, solution design, architecture design and 
-                governance  
-            - Microsoft SharePoint Server administration, configuration, customization, 
-                development (C# .NET, JavaScript, REST), testing, deployment
-            - Project and operational management
-            - IT training and coaching
+        - role: Technical Consultant
+          time: 2007 - 2013
+          company: Microsoft Switzerland
+          details: |
+              - Planning SharePoint solutions: functional specification, design, scalability
+              - Gathering business requirements, solution design, architecture design and 
+                  governance  
+              - Microsoft SharePoint Server administration, configuration, customization, 
+                  development (C# .NET, JavaScript, REST), testing, deployment
+              - Project and operational management
+              - IT training and coaching
 
-      - role: Technical Consultant
-        time: 2003 - 2007
-        company: Microsoft Poland
-        details: |
-            - Planning SharePoint solutions: functional specification, design, scalability
-            - Gathering business requirements, SharePoint-based solution design, 
-                architecture, development, testing, deployment
-            - IT training and coaching
-
+        - role: Technical Consultant
+          time: 2003 - 2007
+          company: Microsoft Poland
+          details: |
+              - Planning SharePoint solutions: functional specification, design, scalability
+              - Gathering business requirements, SharePoint-based solution design, 
+                  architecture, development, testing, deployment
+              - IT training and coaching
 
 certifications:
-      title: Certifications
-      list:
+    title: Certifications
+    list:
         - name: Microsoft Certified Azure Solutions Architect Expert (exams AZ-303, AZ-304)
           start: 2021
           end: 2026
           organization: Microsoft
           credentialurl: https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/
           details: |
-            Subject matter expertise in designing cloud and hybrid solutions that run on Azure, including:
-                - Compute
-                - Network
-                - Storage
-                - Monitoring
-                - Security
+              Subject matter expertise in designing cloud and hybrid solutions that run on Azure, including:
+                  - Compute
+                  - Network
+                  - Storage
+                  - Monitoring
+                  - Security
 
         - name: Microsoft Certified, DevOps Engineer Expert
           start: 2020
@@ -140,97 +134,97 @@ certifications:
           organization: Microsoft
           credentialurl: https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/
           details: |
-            Delivering Microsoft DevOps solutions that provide continuous security, integration, testing, delivery, deployment, monitoring, and feedback. Design and implementation of flow of work, collaboration, communication, source control, and automation.
+              Delivering Microsoft DevOps solutions that provide continuous security, integration, testing, delivery, deployment, monitoring, and feedback. Design and implementation of flow of work, collaboration, communication, source control, and automation.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        You can list your side projects in this
+        section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        - title: Velocity
+          link: "#hook"
+          tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        - title: DevStudio
+          link: "#"
+          tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        - title: Tempo
+          link: "#"
+          tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        - title: Atom
+          link: "#"
+          tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        - title: Delta
+          link: "#"
+          tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        You can list your open source software contributions in this
+        section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        - title: Tempo
+          link: "#"
+          tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        - title: Atom
+          link: "#"
+          tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        - title: Delta
+          link: "#"
+          tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+        You can list your publications in this section. Lorem ipsum dolor sit
+        amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+        bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        - title: The Art of Computer Programming
+          link: "#"
+          authors: Donald E. Knuth
+          conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+          link: "#"
+          authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+          conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        - title: A syntax directed compiler for Algol 60
+          link: "#"
+          authors: Edgar T. Irons
+          conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+        - name: Python & Django
+          level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+        - name: Javascript & jQuery
+          level: 98%
 
-      - name: Angular
-        level: 98%
+        - name: Angular
+          level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+        - name: HTML5 & CSS
+          level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+        - name: Ruby on Rails
+          level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+        - name: Sketch & Photoshop
+          level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
