@@ -290,22 +290,21 @@ skills:
     toolset:
         - name: |
             Azure services with focus on solution development: app hosting and compute, storage and messaging, identity and security, monitoring
-          level: 95%
+          level: 85%
 
         - name: |
             Power Platform Solutions Architecture and Design: Canvas and Model Driven Apps, Power Automate, Dataverse, Power BI, AI models, Copilot, PowerApps component framework, React controls 
-          level: 95%
+          level: 80%
 
         - name: |
             Microsoft Cloud solutions design and development with focus on security and monitoring. SPFx, Microsoft Graph, Rest API, Excel Script, Excel and Power Query 
           level: 90%
 
         - name: Azure DevOps, CI/CD, Workload Identity, Policies, Bicep, 
-          level: 90%
+          level: 80%
 
         - name: C#, TypeScript, React, PowerShell
-          level: 95%
+          level: 90%
           
 
-footer: >
-    ---
+footer: ""
