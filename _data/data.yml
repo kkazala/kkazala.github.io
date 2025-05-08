@@ -53,7 +53,7 @@ education:
           time: 1999 - 2005
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
         - role: Azure, Microsoft 365 and Power Platform Solution Architect
           time: 2020 - Present
@@ -177,28 +177,28 @@ projects:
             Power BI solution that provides cost estimations for modernized solutions. <br/>
             The solution is designed to help organizations optimize their Power Platform licensing costs by providing insights into usage patterns and recommending the most cost-effective licensing options.<br/>
             It analyzes historical usage data , differentiates between active and rarely active users, and provides suggestions and cost estimates for the licenses needed for each type of user.<br/>
-            Technologies: Power BI, SharePoint Online, Power Query.
+            <b>Technologies</b>: Power BI, SharePoint Online, Power Query.
 
         - title: Cost Calculator for Licensing Optimization
           link: "https://adoption.microsoft.com/sample-solution-gallery/sample/pnp-powerplatform-samples-license-calculator"
           tagline: >
             Power Platform Canvas App assists decision-makers in selecting the most cost-efficient licensing approach based on number of Premium solutions and planned usage patterns. Offers visual representation of different license costs, provides suggestions for the most cost effective approach, and allows defining custom license prices in case of Volume Licensing. <br/>
-            Technologies: Power Apps, Canvas App, Power Fx.<br/>
+            <b>Technologies</b>: Power Apps, Canvas App, Power Fx.<br/>
             Application published in Microsoft Adoption | Sample Solution Gallery.
 
         - title: Power Platform Assessment tool
           link: "#"
           tagline: >
             Guides users through a sequence of questions, providing information about Power Platform capabilities and recommendations. At the end of assessment, generates summary document with the solution design recommendations and rationale.<br/>
-            Technologies: Power Apps, Canvas App, Power Fx, Dataverse for Teams, Power Automate.<br/>
+            <b>Technologies</b>: Power Apps, Canvas App, Power Fx, Dataverse for Teams, Power Automate.<br/>
             Internal tool, publication pending.
 
         - title: Multilingual Power Platform components
           link: "https://github.com/kkazala/Multilingual-PCF-React-components"
           tagline: >
             A set of Power Apps components that provide multilingual support. The components are designed to be used in Model-driven Power Apps and can be easily integrated into existing applications. <br/>
-            Technologies: React and TypeScript, PCF, Model-driven Power Apps.<br/>
-            Featured in the <a href="https://pcf.gallery/authors#:~:text=Kinga%20Kazala">PCF Gallery</a>.
+            <b>Technologies</b>: React and TypeScript, PCF, Model-driven Power Apps.<br/>
+            Featured in: <a href="https://pcf.gallery/authors#:~:text=Kinga%20Kazala">PCF Gallery</a>.
 
         - title: Power Automate Utilities
           link: "https://github.com/kkazala/Power-Automate-Utils"
@@ -211,20 +211,20 @@ projects:
                 <li>Get SharePoint information for Dataverse record</li>
                 <li>Xpath transformations - cheatsheet</li>
               </ul>
-            Technologies: Power Automate, Dataverse, SharePoint, MS Teams.<br/>
+            <b>Technologies</b>: Power Automate, Dataverse, SharePoint, MS Teams.<br/>
             Described in the <a href="https://dev.to/kkazala/series/30581">Power Automate - Utils Series</a>.
               
         - title: Business Process Flow With Custom Buttons
           link: "https://github.com/kkazala/Business-Process-Flow-With-Custom-Buttons"
           tagline: >
             Reusable client script that may be used by custom buttons in Business Process Flow to easily move between stages and blocking the default buttons.<br/>
-            Technologies: Typescript, Model-driven Apps, Business Process Flow, Dataverse DevTools.
+            <b>Technologies</b>: Typescript, Model-driven Apps, Business Process Flow, Dataverse DevTools.
 
         - title: Application Insights and Cost Management Dashboards Web Part 
           link: "https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-web-parts-react-dashboards/"
           tagline: >
             Most SharePoint solutions provides predefined dashboard, meaning that every change in the data displayed requires code changes. The two Web Parts included in this sample allow connecting to Application Insights and Cost Management API and defining the query and the display format right from the User Interface. Both Web Parts come with predefined queries to get you started.<br/>
-            Technologies: SharePoint Online, SPFx, TypeScript, Azure Application Insights, Azure Cost Management, KUSTO queries.
+            <b>Technologies</b>: SharePoint Online, SPFx, TypeScript, Azure Application Insights, Azure Cost Management, KUSTO queries.
 
         - title: SharePoint Framework Extortion Pack
           link: "https://github.com/kkazala/Extortion-Pack"
@@ -238,14 +238,15 @@ projects:
               <li>**Remove unused API Permissions assigned to SPFx App Principal**: PowerShell script automatically removing all API permissions assigned to the "SharePoint Online Client Extensibility Web Application Principal", but not explicitly requested by any SharePoint extensions installed in the tenant.</li>
               <li>**Extortion Pack**: SharePoint Webparts evaluating available resources and API Permissions and providing users with visual overview of their information (documents, emails, etc) that can be potentially stolen.</li>
             </ul>
-            Technologies: SharePoint Online, TypeScript, SPFx, Azure Application Insights, Azure Functions, PnP PowerShell, Graph PowerShell, PowerShell, KUSTO queries.<br/>
+            <b>Technologies</b>: SharePoint Online, TypeScript, SPFx, Azure Application Insights, Azure Functions, PnP PowerShell, Graph PowerShell, PowerShell, KUSTO queries.<br/>
             Described in the <a href="https://dev.to/kkazala/series/28468.">SharePoint solutions as a spyware</a> blog series.
           
         - title: Azure V4 Function using managed identity
           link: "https://pnp.github.io/pnpcore/demos/Demo.AzFunction.ManagedIdentityV2/README.html"
           tagline: >
             This sample simplifies implementation of Azure Functions, by providing easy to set-up code that authenticates with app registration's client id and secret when debugging locally, and Managed Identity when the code executes in Azure. <br/>
-            Described in the <a href="https://dev.to/kkazala/azure-functions-pnpcore-managed-identity-3-4dfc">Azure Functions + PnP.Core + Managed Identity=💙</a> blog post.
+            <b>technologies</b>: Azure Functions, PnP Core SDK, AC#, .NET<br/>
+            Described in the <a href="https://dev.to/kkazala/azure-functions-pnpcore-managed-identity-3-4dfc">Azure Functions + PnP.Core + Managed  = 💙</a> blog post.
 
 oss:
     title: Blog posts and Open Source Contributions
