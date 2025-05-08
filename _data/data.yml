@@ -165,10 +165,10 @@ certifications:
 projects:
     title: Projects
     intro: >
-        Contributed to multiple community projects and samples, e.g.
-          - [Microsoft Adoption | Sample Solution Gallery](https://adoption.microsoft.com/en-us/sample-solution-gallery/?keyword=kazala)
-          - [PnP Core SDK | Samples](https://pnp.github.io/pnpcore/demos/README.html)
-        Authored multiple blog posts covering development and security topics, GitHub repositories and Postman resources
+        Contributed to multiple community projects and samples, e.g. 
+        <a href="https://adoption.microsoft.com/en-us/sample-solution-gallery/?keyword=kazala">Microsoft Adoption | Sample Solution Gallery</a>,
+        <a href="https://pnp.github.io/pnpcore/demos/README.html">PnP Core SDK | Samples</a>.
+        Authored multiple blog posts covering development and security topics, GitHub repositories and Postman resources.
     assignments:
       
         - title: Power Platform cost optimization
