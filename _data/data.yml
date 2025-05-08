@@ -64,7 +64,7 @@ experiences:
               - Workloads connecting legacy applications with Azure, SharePoint Online and Exchange Online, spanning across different technologies such as 
                 Azure (APIM, Azure Functions and Logic Apps, Service Bus, Application Insights), Power Platform (Canvas Apps, Power Automate with 
                 Excel Script integration, data insights using Excel and Power Query or Power BI)
-              - Project plan priorotization in the context of solution migration to the Microsoft cloud
+              - Project plan prioritization in the context of solution migration to the Microsoft cloud
               - Deployment using CI/CD automation, e.g. Infrastructure as Code using Bicep templates and adapted rushstack.io change management process, secured using pipeline's Workload Identity; MS Teams integration with Azure DevOps
               - Solution development using .NET, TypeScript and React (SPFx solutions, Power Platform components)
               - Contributions to the PnP community, multiple blogs posts covering development and security topics
