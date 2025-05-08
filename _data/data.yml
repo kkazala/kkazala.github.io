@@ -106,18 +106,13 @@ experiences:
 certifications:
     title: Certifications
     list:
-        - name: Microsoft Certified Azure Solutions Architect Expert (exams AZ-303, AZ-304)
+        - name: Microsoft Certified Azure Solutions Architect Expert
           start: 2021
           end: present
           organization: Microsoft
           credentialurl: https://learn.microsoft.com/api/credentials/share/en-us/KazalaKingaID-9025/2908BC3D853A0244?sharingId=E26A7DE693A444F1
           details: |
-              Subject matter expertise in designing cloud and hybrid solutions that run on Azure, including:
-                  - Compute
-                  - Network
-                  - Storage
-                  - Monitoring
-                  - Security
+              Subject matter expertise in designing cloud and hybrid solutions that run on Azure, including compute, network, storage, and security.
 
         - name: Microsoft Certified, DevOps Engineer Expert
           start: 2020
