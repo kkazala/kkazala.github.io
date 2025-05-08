@@ -184,10 +184,8 @@ projects:
           tagline: >
             Power Platform Canvas App assists decision-makers in selecting the most cost-efficient licensing approach based on number of Premium solutions and planned usage patterns. Offers visual representation of different license costs, provides suggestions for the most cost effective approach, and allows defining custom license prices in case of Volume Licensing. <br/>
             <b>Technologies</b>: Power Apps, Canvas App, Power Fx.<br/>
-            Application published in Microsoft Adoption | Sample Solution Gallery.
 
         - title: Power Platform Assessment tool
-          link: "#"
           tagline: >
             Guides users through a sequence of questions, providing information about Power Platform capabilities and recommendations. At the end of assessment, generates summary document with the solution design recommendations and rationale.<br/>
             <b>Technologies</b>: Power Apps, Canvas App, Power Fx, Dataverse for Teams, Power Automate.<br/>
