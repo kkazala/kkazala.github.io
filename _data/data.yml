@@ -243,7 +243,7 @@ projects:
           link: "https://pnp.github.io/pnpcore/demos/Demo.AzFunction.ManagedIdentityV2/README.html"
           tagline: >
             This sample simplifies implementation of Azure Functions, by providing easy to set-up code that authenticates with app registration's client id and secret when debugging locally, and Managed Identity when the code executes in Azure. <br/>
-            <b>technologies</b>: Azure Functions, PnP Core SDK, AC#, .NET<br/>
+            <b>Technologies</b>: Azure Functions, PnP Core SDK, AC#, .NET<br/>
             Described in the <a href="https://dev.to/kkazala/azure-functions-pnpcore-managed-identity-3-4dfc">Azure Functions + PnP.Core + Managed  = 💙</a> blog post.
 
 oss:
@@ -254,40 +254,35 @@ oss:
         - title: Breaking changes to the Azure DevOps pipelines
           link: "https://dev.to/kkazala/azure-devops-pipelines-shallow-fetch-1-is-now-default-4656"
           tagline: >
-            "After undocumented change in Azure DevOps pipeline caused issues in all newly created pipelines that required access to commit history, she
+            After undocumented change in Azure DevOps pipeline caused issues in all newly created pipelines that required access to commit history, she
             successfully analyzed the problem, found the root cause and provided a solution. Proactively engaged with Microsoft to provide feedback and request a documentation update.
-            "
         - title: Azure DevOps Pipeline with Workload Identity Federation
           link: "https://dev.to/kkazala/series/26443"
           tagline: >
-            "When 'Workload Identity Federation' was announced in Azure DevOps pipeline, she quickly realized that this is a game changer for security and CI/CD.
+            When 'Workload Identity Federation' was announced in Azure DevOps pipeline, she quickly realized that this is a game changer for security and CI/CD.
             This identity type allows to authenticate Azure DevOps pipeline with Azure resources without the need to store any secrets in the pipeline, just like in the case of Managed Identity for Azure resources.
             This post series describes how to set up Azure DevOps pipeline with Workload Identity Federation, and how to use it to authenticate with Microsoft Cloud resources.
-            ."
 
         - title: Solving transient issues in Azure DevOps pipeline
           link: "https://dev.to/kkazala/azure-devops-and-the-term-install-module-is-not-recognized-issue-30ck"
           tagline: >
-            "When Azure DevOps pipeline started failing randomly with the error 'The term 'Install-Module' is not recognized ...', 
+            When Azure DevOps pipeline started failing randomly with the error 'The term 'Install-Module' is not recognized ...', 
             she evaluated the configuration of Microsoft-hosted agent and found that the issue was caused by a change in the PowerShell library used to install modules.
             Although unable to fix the root case, she provided a workaround and documented the issue in her blog post.
             This post was later provided by one of the readers to the Microsoft support team who wasn't able to find the cause or the solution.
-            "
-
+            
         - title: Change Management in Infrastructure as a Code (IaC)
           link: "https://dev.to/kkazala/series/28718"
           tagline: >
-            "Unlike tradictional code solutions, technology for deploying of Azure resources (e.g. Bicep) does not provide a built-in change management process.
+            Unlike tradictional code solutions, technology for deploying of Azure resources (e.g. Bicep) does not provide a built-in change management process.
             This post series describes implementing change management process for IaC projects, using rushstack.io change management process. It provides a step-by-step guide on how to set up the pipeline, including the necessary configuration files and scripts.
             The post also includes examples of how to use the pipeline to manage changes in your infrastructure as code projects.
-            "
         
         - title: Selection of posts by technology
           link: "https://dev.to/kkazala/my-posts-by-technology-oeb"
           tagline: >
-            "A summary of posts aggregated by technology, including Azure DevOps, Azure Functions, Power Platform, SharePoint Framework, and more.
+            A summary of posts aggregated by technology, including Azure DevOps, Azure Functions, Power Platform, SharePoint Framework, and more.
             The posts provide insights into best practices, tips and tricks, and real-world examples of how to use these technologies effectively.
-            "
 
 skills:
     title: Skills &amp; Proficiency
