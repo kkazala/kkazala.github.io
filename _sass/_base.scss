@@ -178,6 +178,7 @@ p {
   }
 
   .experiences-section,
+  .recommendations-section,
   .educations-section {
     .item {
       margin-bottom: 30px;
@@ -192,7 +193,8 @@ p {
   }
   .job-title,
   .degree,
-  .cert-title{
+  .cert-title,
+  .recommendation-person {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
@@ -200,6 +202,7 @@ p {
     font-weight: 500;
     flex: 75%;
   }
+ 
   .time,
   .cert-url {
     position: absolute;
@@ -209,6 +212,7 @@ p {
     flex: 25%;
   }
   .company,
+  .recommendation-role,
   .university,
   .cert-org {
     margin-bottom: 10px;
@@ -223,6 +227,14 @@ p {
     color: darken($theme-color, 15%);
   }
   .projects-section {
+    .intro {
+      margin-bottom: 30px;
+    }
+    .item {
+      margin-bottom: 15px;
+    }
+  }
+  .oss-section {
     .intro {
       margin-bottom: 30px;
     }
@@ -284,4 +296,3 @@ p {
     color: $heart;
   }
 }
-
