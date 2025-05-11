@@ -73,8 +73,8 @@ experiences:
               - Developed a Power Platform License Calculator, designed to assist decision-makers in selecting the most cost-efficient licensing approach based on number of Premium solutions and planned usage patterns.
                 Application published in Microsoft Adoption | Sample Solution Gallery.
               - Proactively engaged with Microsoft to explore preferential licensing options under the OCRE framework. Recognizing the potential impact, 
-                advocatied for the use of this pricing model, contributed to optimizing costs and promoting the adoption of both Power Platform and Azure services.
-              - Identified a potential risk related to 3rd party SPFx solutions, proactively engaged with impacted IT teams to provide risk assesment, 
+                advocated for the use of this pricing model, contributed to optimizing costs and promoting the adoption of both Power Platform and Azure services.
+              - Identified a potential risk related to 3rd party SPFx solutions, proactively engaged with impacted IT teams to provide risk assessment, 
                 present a sample solution demonstrating vector of attack, and recommended mitigation strategies.
                 Resources published on GitHub, personal and community blogs.
 
@@ -170,7 +170,61 @@ projects:
         <a href="https://pnp.github.io/pnpcore/demos/README.html">PnP Core SDK | Samples</a>.<br/>
         Authored multiple blog posts covering development and security topics, GitHub repositories and Postman resources.
     assignments:
+        - title: External Cloud Service Approval Process | Power Platform Solution Architect / Developer
+          tagline: >
+            <ul>
+            <li>Delivered a Power Platform model-driven application to streamline the approval process for external cloud services</li>
+            <li>Led business requirements gathering, designed the solution architecture, and configured the Dataverse database to support business workflows</li>
+            <li>Implemented application logic using TypeScript client scripts and developed multiple custom PCF (PowerApps Component Framework) components for enhanced user experience</li>
+            <li>Built and executed unit tests to ensure reliability and maintainability of custom components and business logic</li>
+            <li>Published blog posts sharing lessons learned, and contributed samples to the community repositories</li>
+            </ul>
+
+        - title: \"Online Examination\" system, Phase C Implementation | Azure & SharePoint Solution Architect / Developer
+          tagline: >
+            <ul>
+              <li>Designed solution architecture across both Azure and SharePoint platforms, ensuring alignment with business requirements and cloud best practices</li>
+              <li>Implemented integration between SharePoint Online list data and Exchange Online shared mailboxes to automate calendar event management</li>
+              <li>Designed and developed a SharePoint Framework (SPFx) user interface and Azure Function to create and update events in shared Exchange calendars</li>
+              <li>Architected and implemented a secure authentication and permissions model for the integration, ensuring compliance with organizational policies</li>
+              <li>Presented a proof of concept to the Exchange team, secured security sign-off</li>
+              <li>Published blog posts sharing lessons learned, and contributed samples to the community repositories</li>
+            </ul>
+        - title: \"Online Examination\" system, Phase B Implementation | Azure & SharePoint Solution Architect / Developer
+          tagline: >
+            <ul>
+              <li>Designed solution architecture across both Azure and SharePoint platforms, ensuring alignment with business requirements and cloud best practices</li>
+              <li>Delivered an Azure-based integration between the legacy Online Information System (OIS) and a SharePoint Online solution to streamline examination planning process</li>
+              <li>Designed and implemented integration architecture using Azure API Management, Service Bus, and Azure Functions for secure and scalable data exchange</li>
+              <li>Azure resources deployed using Bicep templates and Azure DevOps CI/CD pipelines, ensuring repeatable and maintainable infrastructure-as-code practices</li>
+              <li>Implemented custom change management workflow for Azure templates using Rushstack.io</li>
+              <li>Developed a SharePoint Framework (SPFx) front end to support reconciliation and management of integrated data changes</li>
+              <li>Published blog posts sharing lessons learned, and contributed samples to the community repositories</li>
+            </ul>            
+        - title: \"Online Examination\" system, Phase A Implementation | Project Lead / SharePoint Solution Architect  / Developer
+          tagline: >
+            <ul>
+              <li>Delivered a SharePoint Online solution for the exam lifecycle, orchestrated with a change management system via RushStack.io</li>
+              <li>Led migration from SharePoint On-Premises to SharePoint Online using ShareGate PowerShell and self-hosted Azure DevOps agents, including data transformations</li>
+              <li>Diagnosed and resolved ShareGate migration issues by collaborating with vendor support; implemented workaround migrations to meet deadlines, later re-automated post-fix</li>
+              <li>Developed and published a PowerShell script to export/import SharePoint list customizations and report configuration differences (using ImportExcel), contributing new samples to the community repository</li>
+            </ul>
+        - title: \"Steel Line\" Proof of Concept (POC) | Project Lead / Solution Architect / Developer
+          tagline: >
+            <ul>
+              <li>Delivered a POC integrating Online Examinations systems with Microsoft Cloud (Azure, Microsoft 365) to modernize examination planning process</li>
+              <li>Led business analysis to correct initial requirements through customer interviews, securing stakeholder buy-in</li>
+              <li>Built a SPFx solution, migrated sample data to SharePoint Online, and developed legacy system synchronization with Azure CI/CD pipelines</li>
+              <li>Automated workflows between SharePoint and Exchange Online using Power Platform (Power Automate, Excel Scripts)</li>
+              <li>Analyzed usage data to estimate costs, implemented Azure dashboards for solution monitoring</li>
+              <li>Published blog posts sharing lessons learned and undocumented approaches (e.g., cloud integration, SPO migration)</li>
+            </ul>
       
+oss:
+    title: Blog posts and Open Source Contributions
+    intro: >
+        Authored multiple blog posts covering CI/CD, development and security topics, GitHub repositories and Postman resources.
+    contributions:
         - title: Power Platform cost optimization
           link: "https://dev.to/kkazala/power-platform-cost-estimates-3oga"
           tagline: >
@@ -221,7 +275,7 @@ projects:
         - title: Application Insights and Cost Management Dashboards Web Part 
           link: "https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-sp-dev-spfx-web-parts-react-dashboards/"
           tagline: >
-            Most SharePoint solutions provides predefined dashboard, meaning that every change in the data displayed requires code changes. The two Web Parts included in this sample allow connecting to Application Insights and Cost Management API and defining the query and the display format right from the User Interface. Both Web Parts come with predefined queries to get you started.<br/>
+            Most SharePoint solutions provide predefined dashboard, meaning that every change in the data displayed requires code changes. The two Web Parts included in this sample allow connecting to Application Insights and Cost Management API and defining the query and the display format right from the User Interface. Both Web Parts come with predefined queries to get you started.<br/>
             <b>Technologies</b>: SharePoint Online, SPFx, TypeScript, Azure Application Insights, Azure Cost Management, KUSTO queries.
 
         - title: SharePoint Framework Extortion Pack
@@ -245,12 +299,6 @@ projects:
             This sample simplifies implementation of Azure Functions, by providing easy to set-up code that authenticates with app registration's client id and secret when debugging locally, and Managed Identity when the code executes in Azure. <br/>
             <b>Technologies</b>: Azure Functions, PnP Core SDK, AC#, .NET<br/>
             Described in the <a href="https://dev.to/kkazala/azure-functions-pnpcore-managed-identity-3-4dfc">Azure Functions + PnP.Core + Managed  = 💙</a> blog post.
-
-oss:
-    title: Blog posts and Open Source Contributions
-    intro: >
-        Authored multiple blog posts covering CI/CD, development and security topics, GitHub repositories and Postman resources.
-    contributions:
         - title: Breaking changes to the Azure DevOps pipelines
           link: "https://dev.to/kkazala/azure-devops-pipelines-shallow-fetch-1-is-now-default-4656"
           tagline: >
