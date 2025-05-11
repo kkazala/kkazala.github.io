@@ -175,7 +175,8 @@ projects:
             <li>Published blog posts sharing lessons learned, and contributed samples to the community repositories</li>
             </ul>
 
-        - title: \"Online Examination\" system, Phase C Implementation | Azure & SharePoint Solution Architect / Developer
+        - title: >
+           'Online Examination' system, Phase C Implementation | Azure & SharePoint Solution Architect / Developer
           tagline: >
             <ul>
               <li>Designed solution architecture across both Azure and SharePoint platforms, ensuring alignment with business requirements and cloud best practices</li>
@@ -185,7 +186,8 @@ projects:
               <li>Presented a proof of concept to the Exchange team, secured security sign-off</li>
               <li>Published blog posts sharing lessons learned, and contributed samples to the community repositories</li>
             </ul>
-        - title: \"Online Examination\" system, Phase B Implementation | Azure & SharePoint Solution Architect / Developer
+        - title: >
+            'Online Examination' system, Phase B Implementation | Azure & SharePoint Solution Architect / Developer
           tagline: >
             <ul>
               <li>Designed solution architecture across both Azure and SharePoint platforms, ensuring alignment with business requirements and cloud best practices</li>
@@ -195,8 +197,9 @@ projects:
               <li>Implemented custom change management workflow for Azure templates using Rushstack.io</li>
               <li>Developed a SharePoint Framework (SPFx) front end to support reconciliation and management of integrated data changes</li>
               <li>Published blog posts sharing lessons learned, and contributed samples to the community repositories</li>
-            </ul>            
-        - title: \"Online Examination\" system, Phase A Implementation | Project Lead / SharePoint Solution Architect  / Developer
+            </ul>
+        - title: >
+            'Online Examination' system, Phase A Implementation | Project Lead / SharePoint Solution Architect  / Developer
           tagline: >
             <ul>
               <li>Delivered a SharePoint Online solution for the exam lifecycle, orchestrated with a change management system via RushStack.io</li>
@@ -204,7 +207,8 @@ projects:
               <li>Diagnosed and resolved ShareGate migration issues by collaborating with vendor support; implemented workaround migrations to meet deadlines, later re-automated post-fix</li>
               <li>Developed and published a PowerShell script to export/import SharePoint list customizations and report configuration differences (using ImportExcel), contributing new samples to the community repository</li>
             </ul>
-        - title: \"Steel Line\" Proof of Concept (POC) | Project Lead / Solution Architect / Developer
+        - title: >
+            'Steel Line' Proof of Concept (POC) | Project Lead / Solution Architect / Developer
           tagline: >
             <ul>
               <li>Delivered a POC integrating Online Examinations systems with Microsoft Cloud (Azure, Microsoft 365) to modernize examination planning process</li>
