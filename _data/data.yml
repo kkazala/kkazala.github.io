@@ -164,11 +164,6 @@ certifications:
 
 projects:
     title: Projects
-    intro: >
-        Contributed to multiple community projects and samples, e.g. 
-        <a href="https://adoption.microsoft.com/en-us/sample-solution-gallery/?keyword=kazala">Microsoft Adoption | Sample Solution Gallery</a>,
-        <a href="https://pnp.github.io/pnpcore/demos/README.html">PnP Core SDK | Samples</a>.<br/>
-        Authored multiple blog posts covering development and security topics, GitHub repositories and Postman resources.
     assignments:
         - title: External Cloud Service Approval Process | Power Platform Solution Architect / Developer
           tagline: >
@@ -223,7 +218,9 @@ projects:
 oss:
     title: Blog posts and Open Source Contributions
     intro: >
-        Authored multiple blog posts covering CI/CD, development and security topics, GitHub repositories and Postman resources.
+        Contributed to multiple community projects and samples, e.g. 
+        <a href="https://adoption.microsoft.com/en-us/sample-solution-gallery/?keyword=kazala">Microsoft Adoption | Sample Solution Gallery</a>,
+        <a href="https://pnp.github.io/pnpcore/demos/README.html">PnP Core SDK | Samples</a>.<br/>
     contributions:
         - title: Power Platform cost optimization
           link: "https://dev.to/kkazala/power-platform-cost-estimates-3oga"
@@ -299,11 +296,13 @@ oss:
             This sample simplifies implementation of Azure Functions, by providing easy to set-up code that authenticates with app registration's client id and secret when debugging locally, and Managed Identity when the code executes in Azure. <br/>
             <b>Technologies</b>: Azure Functions, PnP Core SDK, AC#, .NET<br/>
             Described in the <a href="https://dev.to/kkazala/azure-functions-pnpcore-managed-identity-3-4dfc">Azure Functions + PnP.Core + Managed  = 💙</a> blog post.
+    
         - title: Breaking changes to the Azure DevOps pipelines
           link: "https://dev.to/kkazala/azure-devops-pipelines-shallow-fetch-1-is-now-default-4656"
           tagline: >
             After undocumented change in Azure DevOps pipeline caused issues in all newly created pipelines that required access to commit history, she
             successfully analyzed the problem, found the root cause and provided a solution. Proactively engaged with Microsoft to provide feedback and request a documentation update.
+
         - title: Azure DevOps Pipeline with Workload Identity Federation
           link: "https://dev.to/kkazala/series/26443"
           tagline: >
